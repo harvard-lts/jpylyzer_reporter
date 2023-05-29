@@ -1,0 +1,14 @@
+attrs==23.1.0
+flake8==6.0.0
+Flake8-pyproject==1.2.3
+iniconfig==2.0.0
+jpylyzer==2.1.0
+mccabe==0.7.0
+packaging==23.1
+pluggy==1.0.0
+project-paths==1.1.1
+pycodestyle==2.10.0
+pyflakes==3.0.1
+pytest==7.2.1
+python-dotenv==0.21.1
+toml==0.10.2
