@@ -29,5 +29,6 @@ COPY change_id.sh /root/change_id.sh
 COPY --chown=appuser . /home/appuser
 
 USER appuser
+ENV PYTHONPATH=src
 
 #CMD ["python", "./test.py"]
